@@ -1,4 +1,4 @@
-<img width="898" height="506" alt="sales  marketing" src="https://github.com/user-attachments/assets/329c270a-b9a0-4570-b540-581a5b554951" /><img width="898" height="506" alt="sales  marketing" src="https://github.com/user-attachments/assets/13ec0333-1e36-4eb9-9b05-9339d0cfc069" /># 📈 Sales & Marketing Performance Dashboard
+># 📈 Sales & Marketing Performance Dashboard
 
 An interactive Power BI report analyzing sales revenue across 3 product categories, 6 products, 5 cities, 10 sales representatives, and 12 months to identify top performers, regional gaps, and seasonal trends.
 
